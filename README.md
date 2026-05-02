@@ -20,7 +20,9 @@ Capgemini-FrontEnd-with-React/
 ├── Day1-25-04-2026/       # HTML & CSS Foundations
 ├── Day2-27-04-2026/       # JavaScript Core Concepts
 ├── Day3-28-04-2026/       # Introduction to React
-└── Day4-30-04-2026/       # React Components & State
+├── Day4-30-04-2026/       # React Components & State
+├── Day5-01-05-2026/       # Redux + React Practice
+└── Day6-02-05-2026/       # React Assignments & Review
 ```
 
 ---
@@ -33,6 +35,8 @@ Capgemini-FrontEnd-with-React/
 | Day 2 | April 27, 2026 | JavaScript ES6+, DOM manipulation, events |
 | Day 3 | April 28, 2026 | React intro, JSX, props, functional components |
 | Day 4 | April 30, 2026 | React state, useState hook, component composition |
+| Day 5 | May 1, 2026 | Redux integration, React app architecture |
+| Day 6 | May 2, 2026 | React assignments, component patterns, review |
 
 ---
 
